@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this dataset or model in your research, please cite it as below."
+title: "RUEmoCorp: Roman Urdu Emotion Corpus"
+authors:
+  - family-names: "Ahmad"
+    given-names: "Muhammad Khubaib"
+    affiliation: "INFERENCE Lab"
+  - family-names: "Faisal"
+    given-names: "Khadija"
+    affiliation: "INFERENCE Lab"
+  - family-names: "Shadab"
+    given-names: "Muzammil"
+  - family-names: "Sara"
+    given-names: ""
+  - family-names: "Ahmad"
+    given-names: "Faiez"
+identifiers:
+  - type: doi
+    value: "10.7910/DVN/BPWHOZ"
+    description: "Harvard Dataverse Dataset DOI"
+  - type: doi
+    value: "10.21203/rs.3.rs-9759243/v1"
+    description: "Research Square Preprint DOI"
+repository-code: "https://github.com/Inference-LAB/RUEmoCorp"
+url: "https://doi.org/10.7910/DVN/BPWHOZ"
+keywords:
+  - "natural language processing"
+  - "emotion classification"
+  - "roman urdu"
+  - "affective computing"
+  - "low-resource nlp"
+  - "dataset"
+  - "benchmark"
+license: "MIT"
+version: "2.0"
+date-released: "2026-01-01"
